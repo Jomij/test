@@ -1,0 +1,3 @@
+git --global user.name xxxxxx
+git --global user.email "xxxxx"
+
